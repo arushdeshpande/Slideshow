@@ -1,0 +1,28 @@
+.container
+{
+    text-align: center;
+}
+
+#MyCarousel{
+    background-color: aquamarine;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+#Spiderman{
+width: 600px;
+}
+#Miles{
+    width: 600px;
+}
+#Rhino{
+    width: 339px;
+}
+#Tinkerer{
+    width: 600px;
+}
+#DocOc{
+    width: 600px;
+}
+#Simon{
+    width: 600px
+}
